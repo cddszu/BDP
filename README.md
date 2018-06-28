@@ -1,4 +1,5 @@
 # BDP目录
+```
 .
 ├── bin
 │   ├── bdp-gulp-svg-sprite.js
@@ -195,3 +196,4 @@
 ├── package.json
 ├── readme.md
 └── tsconfig.json
+```
